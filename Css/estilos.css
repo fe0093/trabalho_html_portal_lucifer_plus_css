@@ -1,0 +1,133 @@
+#menu ul {
+    margin: 0px;
+    padding: 0 2%;
+    background-color: black;
+    list-style: none;
+}
+
+#menu ul a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+#menu ul a:hover{
+    color:darkcyan;
+}
+
+#titulo1 {
+    background-color: silver;
+    width: 500px;
+    height: 100px;
+}
+
+.container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+#titulo2 {
+    width: 40%;
+    height: 30%;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    
+}
+
+#img {
+    width: 500px;
+    height: 350px;
+}
+
+#img2 {
+    float: left;
+    width: 400px;
+    height: 500px;
+}
+
+#img3 {
+    float: right;
+    width: 400px;
+    height: 500px;
+}
+
+#img4 {
+    width:500px;
+    height:250px;
+}
+
+.pic {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+body {
+    background-color:white;
+    color: black;
+}
+section {
+    display: inline-block;
+}
+
+aside {
+    display: inline-block;
+}
+
+p {
+    color:black;
+    text-align: left;
+}
+
+#p2 {
+    text-align: right;
+    color: black;
+}
+
+#p3 {
+    text-align: left;
+    color: black;
+}
+
+.background {
+    background-image: url(../Img/chamas-de-fogo-em-fundo-preto_34836-2070.jpg);
+}
+
+.transbox {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.transbox h2 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #000000;
+}
+
+.transbox h2 h4 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #000000;
+}
+.transbox h3 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: #000000;
+}
+.transbox h {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #000000;
+}
